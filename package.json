@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "sites/*"
+  ],
+  "scripts": {
+    "td": "yarn workspace theme-dev develop --port=8001",
+    "honk": "yarn workspace honkify develop --port=8002",
+    "nis": "yarn workspace negronis develop --port=8003"
+  }
+}

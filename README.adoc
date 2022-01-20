@@ -1,0 +1,3 @@
+= Gatsby-Theme-Dev
+
+sample of developping a gatsby theme
